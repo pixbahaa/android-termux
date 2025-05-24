@@ -1,4 +1,3 @@
 #/bin/sh
 
-clear
-echo hi
+echo "secend hi"
